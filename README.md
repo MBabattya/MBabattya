@@ -15,7 +15,7 @@ Security Auditor Focused On Smart Contract Auditing. Building Carrier in Smart C
 - Solidity
 - Hardhat
 
-![MBabattya's GitHub stats](https://github-readme-stats.vercel.app/api?username=MBabattya&show_icons=true&theme=radical)
+![MBabattya's GitHub stats](https://github-readme-stats.vercel.app/api?username=MBabattya&show_icons=true&theme=dark)
 
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohan-babattya/)
